@@ -1,1 +1,2 @@
-# Fit-Forecast
+# Fit Forecast
+This is a notebook for the project of the course "Fondamenti di Analisi dei Dati" of the University of Catania. The project consist in the prediction of the calories burned by a person during a physical activity. There is two dataset that will be used for this purpose. The first one is the "calories.csv" that contains the calories burned by a person during a physical activity. The second one is the "exercise.csv" that contains the data of the physical activity. 
